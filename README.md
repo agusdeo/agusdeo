@@ -13,7 +13,7 @@ I'm always curious abot how things works  💡. I love to explore new technologi
 
 - 🚀 &nbsp; I’m currently learning Software Quality Assurance and Python Programming Language.
 - 📫 &nbsp; How to reach me: agusdeosaputra@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://).
+- 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1sqn9mqgULsO-CiTUR3rVz0946c__7tfAKUGoIrtBSqg/edit?usp=sharing).
 
 
 ### Languages and Tools:
